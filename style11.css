@@ -1,0 +1,294 @@
+
+.header-container > img {
+    width: 130px;
+    height: 27.76px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.header-container--button {
+    color: #000000;
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 45px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    background-color: #ffffff;
+    width: 120px;
+    height: 45px;
+    left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    border: solid black;
+    border-width: 1px;
+}
+
+.header-container--second_button {
+    color: #ffffff;
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 45px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    background-color: #FF6336;
+    width: 120px;
+    height: 45px;
+    left: 10px;
+    gap: 0px;
+    opacity: 0px;
+    border-width: 0px;
+}
+
+.header-container > nav > a {
+    font-family: Graphik LC TT;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: black;
+}
+
+.introduction {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.introduction--button {
+    width: 160px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #FF6336;
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+    border-width: 0px;
+}
+
+.introduction--second_button {
+    width: 160px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #ffffff;
+    font-family: Graphik LC TT;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+    border-width: 1px;
+    border: solid black;
+}
+
+.introduction--small_text {
+    font-family: Graphik LC TT;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+
+.introduction > img {
+    width: 759px;
+    height: 529px;
+    top: 246px;
+    left: 614px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.localized {
+    background-color: #FF9C7D; 
+    font-family: Graphik LC TT;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.benefits {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+
+.benefits > div > div > a {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.benefits--text-left {
+    text-align: left;
+}
+
+.benefits--text-right {
+    text-align: right;
+}
+
+.lokaloizebles {
+    background-color: #FFF8E4;
+    font-family: Graphik LC TT;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+
+.teams {
+    color: #000000;
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.teams > div > div > a {
+    color: #000000;
+}
+
+.thoughts {
+    background-color: #C9E8F2;
+    font-family: Graphik LC TT;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+
+.thoughts > p + p {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+}
+
+.reviews {
+    background-color: #DABC98;
+    font-family: Graphik LC TT;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 50px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+
+.interagations {
+    font-family: Graphik LC TT;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #000000;
+}
+
+.interagations > div > img {
+    width: 1023px;
+    height: 445px;
+    top: 8172px;
+    left: 208px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.interagations > div > h2 {
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.interagations--button {
+    background-color: #FF6336;
+    color: #FFFFFF;
+    border: none;
+    width: 193px;
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.its_easy {
+    background-color: #FF9C7D;
+    font-family: Graphik LC TT;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 75px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.its_easy > p {
+    font-family: Graphik LC TT;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.its_easy--button {
+    background-color: #000000;
+    color: #FFFFFF;
+    border: none;
+    width: 160px;
+    height: 60px;
+    top: 424px;
+    left: 565px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.footer-container--lists > div > a {
+    color: #000000;
+}
